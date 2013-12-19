@@ -1,0 +1,29 @@
+{
+  "name": "node-crunchbase",
+  "version": "1.0.0",
+  "description": "Wrapper on top of Crunchbase REST API in Node.js",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArkeologeN/crunchbase-node.git"
+  },
+  "keywords": [
+    "crunchbase",
+    "wrapper",
+    "rest"
+  ],
+  "author": "Hamza Waqas <hamzawaqas.programmer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkeologeN/crunchbase-node/issues"
+  },
+  "homepage": "https://github.com/ArkeologeN/crunchbase-node",
+  "dependencies": {
+    "request": "~2.30.0",
+    "lodash": "~2.4.1",
+    "jasmine-node": "*"
+  }
+}
