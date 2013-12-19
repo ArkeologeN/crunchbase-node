@@ -11,7 +11,7 @@ Wrapper can be downloaded from npm:
 Once installed, its easy to use it:
 
 ```javascript
-var crunchbase = require('crunchbase-node')('app_key_id_here');
+var crunchbase = require('node-crunchbase')('app_key_id_here');
 ```
 
 I'm in hurry! Please look at `spec/test_spec.js` in order to understand the usage.
